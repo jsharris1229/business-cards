@@ -1,0 +1,11 @@
+/* Stylesheet for the Business Card webpages.
+ */
+
+/* Set default styles
+ */
+  body {
+    font-family: "Times New Roman" serif;
+    background-color: gray;
+    color: green;
+ }
+ 
